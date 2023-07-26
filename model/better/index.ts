@@ -2,7 +2,6 @@ import {Chat, ChatOptions, ChatRequest, ChatResponse, ModelType} from "../base";
 import {AxiosInstance, AxiosRequestConfig, CreateAxiosDefaults} from "axios";
 import {CreateAxiosProxy} from "../../utils/proxyAgent";
 import es from "event-stream";
-import {ErrorData, Event, EventStream, MessageData, parseJSON} from "../../utils";
 
 import {Chat, ChatOptions, ChatRequest, ChatResponse, ModelType} from "../base";
 import {AxiosInstance, AxiosRequestConfig, CreateAxiosDefaults} from "axios";
